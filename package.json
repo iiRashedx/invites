@@ -1,11 +1,11 @@
     
 {
-  "name": "cj",
+  "name": "invites",
   "description": "Test",
   "version": "0.0.0",
-  "main": "cj.js",
+  "main": "namee.js",
   "scripts": {
-    "start": "node cj.js"
+    "start": "node namee.js"
   },
   "dependencies": {
     "discord.js": "11.1.0",
