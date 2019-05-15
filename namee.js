@@ -1,13 +1,3 @@
-    
-const Discord = require('discord.js');
-const client = new Discord.Client();
-var prefix = "+";
-
-client.on('ready', () => {
-    console.log(`cj team`);
-});
-
-
     // This episode will go over Invite Leaderboards, sorted.
 const Discord = require('discord.js'), // This will be used for creating embed
       arraySort = require('array-sort'), // This will be used for sorting arrays
