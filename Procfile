@@ -1,2 +1,1 @@
-
  worker: node namee.js
