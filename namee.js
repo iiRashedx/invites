@@ -51,4 +51,4 @@ exports.run = async (client, message, args, tools) => {
 }
 
 
-client.login("");
+client.login(process.env.BOT_TOKEN);
